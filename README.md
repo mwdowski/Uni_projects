@@ -1,2 +1,2 @@
 # Uni_projects
-Ciekawsze projekty, zadania i prace domowe z wykonywanych w ramach zajęć na MiNI
+Most interesting projects and homeworks from MiNI faculty at Warsaw University of Technology
